@@ -1,0 +1,13 @@
+# 01-intro
+pandas>=2.2.2
+scikit-learn>=1.5.0
+openai>=1.35.7
+elasticsearch>=8.14.0
+tqdm>=4.66.4
+python-dotenv>=1.0.1
+
+# 02-open-source
+transformers>=4.42.3
+accelerate>=0.31.0
+bitsandbytes>=0.43.1
+sentencepiece>=0.2.0
