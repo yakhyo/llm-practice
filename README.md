@@ -1,4 +1,4 @@
-# LLM Practice
+# LLM Course
 
 Welcome to the LLM Zoomcamp! This repository contains all the materials for the free online course provided by DataTalks.Club. The course focuses on real-life applications of Large Language Models (LLMs), with a comprehensive syllabus designed to teach you how to build an AI bot that can answer questions about your knowledge base.
 
